@@ -2,8 +2,9 @@
 Criação de uma biblioteca para controle de emprestimo e devoluçao de livros
 
 
-Finalizada primeira parte em 57 minutos
+https://www.youtube.com/watch?v=djTi1v1WqYM&list=PL3gEA6Xsr_enCP_7MfEUFMyF6OtbVMCM1&index=2
 
-https://www.youtube.com/watch?v=7dSq5z91Moc&t=2601s
+parada em 8 miniutos
 
+pagina de bootstrap
 
